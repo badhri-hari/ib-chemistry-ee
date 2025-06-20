@@ -1,1 +1,4 @@
 View main EE file in Google Drive (recommended): https://drive.google.com/file/d/1Ll-T2bzvc9nhniSUGhwSeSTB1dSKK54w/view?usp=sharing
+
+Abstract:
+Heavy metal contamination of water is a serious global issue. This essay explores the potential of pomegranate peels as a sustainable, eco-friendly chelating agent to reduce copper contamination in water. Using the following experimental variables: complexing solution pH; mass of pomegranate peel powder; copper concentration; and ligand extraction solvent, it has been demonstrated that pomegranate peels, rich in polyphenols like Gallic acid and Ellagic acid, can effectively form complexes with copper ions, lowering copper levels in aqueous solutions. This research highlights a promising natural method for reducing heavy metal contamination in water sources.
